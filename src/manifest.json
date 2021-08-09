@@ -1,0 +1,49 @@
+{
+	"manifest_version": 2,
+	"name": "__MSG_extensionName__",
+	"version": "1.0",
+	"default_locale": "en",
+	"author": "__MSG_author__",
+	"description": "__MSG_extensionDescription__",
+	"homepage_url": "https://github.com/ZER0-x/video-speed-setter",
+	"icons": {
+		"16": "icons/VSS-logo.svg",
+		"32": "icons/VSS-logo.svg",
+		"48": "icons/VSS-logo.svg",
+		"96": "icons/VSS-logo.svg",
+		"128": "icons/VSS-logo.svg"
+	},
+	"permissions": [
+		"activeTab"
+	],
+	"commands": {
+		"_execute_browser_action": {
+			"suggested_key": {
+				"default": "Alt+K"
+			},
+			"description": "__MSG_executeBrowserActionShortCut__"
+		},
+		"increase": {
+			"suggested_key": {
+				"default": "Alt+L"
+			},
+			"description": "__MSG_increaseShortCut__"
+		},
+		"decrease": {
+			"suggested_key": {
+				"default": "Alt+J"
+			},
+			"description": "__MSG_decreaseShortCut__"
+		}
+	},
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	},
+	"browser_action": {
+		"default_icon": "icons/VSS-logo.svg",
+		"default_title": "__MSG_extensionName__",
+		"default_popup": "popup/popup.html"
+	}
+}

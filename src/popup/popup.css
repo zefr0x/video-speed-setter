@@ -1,0 +1,50 @@
+body {
+	direction: __MSG_@@bidi_dir__;
+	width: 70px;
+	height: 55px;
+	background-color: #000000;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+#speedInput {
+	background-color: #000000;
+	direction: ltr;
+	box-sizing: border-box;
+	border: none;
+	outline: none;
+	width: 70px;
+	height: 40px;
+	color: #f5deb3;
+	font-size: 30px;
+	background-color: transparent;
+	caret-color: #73020C;
+	-webkit-appearance: textfield;
+	-moz-appearance: textfield;
+	appearance: textfield;
+}
+
+#speedInput::-webkit-inner-spin-button,
+#speedInput::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+}
+
+#speedInput::selection {
+	background-color: #40010D;
+	color: #f5deb3a2;
+}
+
+footer {
+	margin-top: 5px;
+	font-size: 9.5px;
+	color: #9c9c9c;
+	text-align: center;
+}
+
+a {
+	color: #808080;
+	text-decoration: none;
+}
