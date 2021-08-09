@@ -1,10 +1,11 @@
 # Video Speed Setter
-![](https://shields.io/github/license/ZER0-X/video-speed-setter)
-![](https://shields.io/amo/v/:addonId?label=version)
-![](https://shields.io/amo/dw/:addonId)
-![](https://shields.io/amo/users/:addonId)
-![](https://shields.io/amo/stars/:addonId)
+![license](https://shields.io/github/license/ZER0-X/video-speed-setter)
+![version](https://shields.io/amo/v/:addonId?label=version)
+![downloads](https://shields.io/amo/dw/:addonId)
+![users](https://shields.io/amo/users/:addonId)
+![stars](https://shields.io/amo/stars/:addonId)
 
+[![get-the-add-on badge](https://raw.githubusercontent.com/ZER0-X/badges/main/mozilla/firefox-addons/get-the-add-on.svg)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
 
 A browser extensions that gives you a simpe control over the video playback rate in the current web page.
 
