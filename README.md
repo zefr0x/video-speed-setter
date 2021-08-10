@@ -1,9 +1,9 @@
 # Video Speed Setter
-![license](https://shields.io/github/license/ZER0-X/video-speed-setter)
-![version](https://shields.io/amo/v/:addonId?label=version)
-![downloads](https://shields.io/amo/dw/:addonId)
-![users](https://shields.io/amo/users/:addonId)
-![stars](https://shields.io/amo/stars/:addonId)
+[![license](https://shields.io/github/license/ZER0-X/video-speed-setter)](https://github.com/ZER0-X/video-speed-setter/blob/main/LICENSE)
+[![version](https://shields.io/amo/v/video-speed-setter?label=version)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
+[![downloads](https://shields.io/amo/dw/video-speed-setter)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
+[![users](https://shields.io/amo/users/video-speed-setter)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
+[![stars](https://shields.io/amo/stars/video-speed-setter)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
 
 [![get-the-add-on badge](https://raw.githubusercontent.com/ZER0-X/badges/main/mozilla/firefox-addons/get-the-add-on.svg)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
 
