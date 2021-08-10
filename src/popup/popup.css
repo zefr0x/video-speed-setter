@@ -5,15 +5,10 @@ body {
 	background-color: #000000;
 	font-family: sans-serif, serif;
 	overflow: hidden;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	-o-user-select: none;
 	user-select: none;
 }
 
 #speedInput {
-	background-color: #000000;
 	direction: ltr;
 	box-sizing: border-box;
 	border: none;
@@ -24,14 +19,8 @@ body {
 	font-size: 30px;
 	background-color: transparent;
 	caret-color: #73020C;
-	-webkit-appearance: textfield;
 	-moz-appearance: textfield;
 	appearance: textfield;
-}
-
-#speedInput::-webkit-inner-spin-button,
-#speedInput::-webkit-outer-spin-button {
-	-webkit-appearance: none;
 }
 
 #speedInput::selection {
