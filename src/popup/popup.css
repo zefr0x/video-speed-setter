@@ -3,6 +3,8 @@ body {
 	width: 70px;
 	height: 55px;
 	background-color: #000000;
+	font-family: sans-serif, serif;
+	overflow: hidden;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
@@ -39,7 +41,7 @@ body {
 
 footer {
 	margin-top: 5px;
-	font-size: 9.5px;
+	font-size: 8.9px;
 	color: #9c9c9c;
 	text-align: center;
 }
