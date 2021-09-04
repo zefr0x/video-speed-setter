@@ -1,6 +1,6 @@
 body {
 	direction: __MSG_@@bidi_dir__;
-	width: 70px;
+	min-width: 70px;
 	height: 55px;
 	background-color: #000000;
 	font-family: sans-serif, serif;
@@ -13,8 +13,11 @@ body {
 	box-sizing: border-box;
 	border: none;
 	outline: none;
-	width: 70px;
+	width: 80%;
 	height: 40px;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%);
 	color: #f5deb3;
 	font-size: 30px;
 	background-color: transparent;
@@ -29,10 +32,11 @@ body {
 }
 
 footer {
-	margin-top: 5px;
 	font-size: 8.9px;
 	color: #9c9c9c;
 	text-align: center;
+	position: relative;
+	top: 45px;
 }
 
 a {
