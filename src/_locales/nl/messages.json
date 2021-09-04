@@ -1,0 +1,30 @@
+{
+	"extensionName": {
+		"message": "Videosnelheid",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Bespaar tijd en neem meer informatie op door video's op welke website dan ook te versnellen.",
+		"description": "Description of the extension."
+	},
+	"executeBrowserActionShortCut": {
+		"message": "Pop-upvenster openen",
+		"description": "A shortcut description."
+	},
+	"increaseShortCut": {
+		"message": "Afspeelsnelheid verhogen met 0.1",
+		"description": "A shortcut description."
+	},
+	"decreaseShortCut": {
+		"message": "Afspeelsnelheid verlagen met 0.1",
+		"description": "A shortcut description."
+	},
+	"source": {
+		"message": "Broncode",
+		"description": "Source."
+	},
+	"author": {
+		"message": "zer0-x",
+		"description": "Author name."
+	}
+}
