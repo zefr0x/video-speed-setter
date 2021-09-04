@@ -1,3 +1,5 @@
+🔴 Help wanted in [#2](https://github.com/ZER0-X/video-speed-setter/issues/2)
+
 # Video Speed Setter
 [![license](https://shields.io/github/license/ZER0-X/video-speed-setter)](https://github.com/ZER0-X/video-speed-setter/blob/main/LICENSE)
 [![version](https://shields.io/amo/v/video-speed-setter?label=version)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
