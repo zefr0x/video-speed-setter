@@ -26,5 +26,13 @@
 	"author": {
 		"message": "zer0-x",
 		"description": "Author name."
+	},
+	"increaseAmountLable": {
+		"message": "Increase/Decrease amount",
+		"description": "First label in preferences"
+	},
+	"saveButton": {
+		"message": "Save",
+		"description": "Save button"
 	}
 }

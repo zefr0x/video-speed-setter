@@ -26,5 +26,13 @@
 	"author": {
 		"message": "zer0-x",
 		"description": "اِسمُ الكاتِب."
+	},
+	"increaseAmountLable": {
+		"message": "مِقدارُ الزِيادةِ وَالنُقصان",
+		"description": "اسم الحقل الأول في التفضيلات"
+	},
+	"saveButton": {
+		"message": "اِحفَظ",
+		"description": "زر حفظ التفضيلات"
 	}
 }
