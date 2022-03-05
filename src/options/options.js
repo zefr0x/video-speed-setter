@@ -1,7 +1,7 @@
 // Get settings from input and store them.
 function storeSettings() {
 	browser.storage.local.set({
-		increaseAmount: document.querySelector('#increaseAmount'),
+		increaseAmount: document.getElementById('increaseAmount').value,
 	});
 }
 

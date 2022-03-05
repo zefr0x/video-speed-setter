@@ -1,10 +1,9 @@
-let increaseAmount;
-
 function getIncreaseAmount(restoredSettings) {
 	increaseAmount = restoredSettings.increaseAmount;
 	if (increaseAmount === undefined) {
 		increaseAmount = 0.1;
 	}
+	return increaseAmount;
 }
 
 function applyPlayBackRate(amount) {
@@ -16,11 +15,14 @@ function applyPlayBackRate(amount) {
 }
 
 browser.commands.onCommand.addListener(function (command) {
-	browser.storage.local.get().then(getIncreaseAmount);
-
-	if (command === 'increase') {
-		applyPlayBackRate(increaseAmount);
-	} else if (command === 'decrease') {
-		applyPlayBackRate(-increaseAmount);
-	}
+	browser.storage.local
+		.get()
+		.then(getIncreaseAmount)
+		.then(function (increaseAmount) {
+			if (command === 'increase') {
+				applyPlayBackRate(increaseAmount);
+			} else if (command === 'decrease') {
+				applyPlayBackRate(-increaseAmount);
+			}
+		});
 });
