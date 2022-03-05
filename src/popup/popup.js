@@ -11,13 +11,13 @@ document.addEventListener("contextmenu", event => event.preventDefault());
 
 
 ["keyup", "change"].forEach(event =>
-	document.getElementById("speedInput").addEventListener(event, apply)
+	document.getElementById("speedInput").addEventListener(event, applyPlayBackRate)
 );
 
-function apply() {
+function applyPlayBackRate() {
 	const executing = browser.tabs.executeScript({
-		code: "document.querySelector('video').playbackRate = " +
-			document.getElementById("speedInput").value
+		code: "document.querySelectorAll('video').forEach(video => video.playbackRate =" +
+			document.getElementById("speedInput").value + ")"
 	});
 
 	executing;
