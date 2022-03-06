@@ -9,8 +9,6 @@ document
 	.getElementsByTagName('html')[0]
 	.setAttribute('lang', browser.i18n.getUILanguage());
 
-document.addEventListener('contextmenu', (event) => event.preventDefault());
-
 ['keyup', 'change'].forEach((event) =>
 	document
 		.getElementById('speedInput')
