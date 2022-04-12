@@ -12,11 +12,11 @@
 		"description": "A shortcut description."
 	},
 	"increaseShortCut": {
-		"message": "Increase the playback speed by 0.1",
+		"message": "Increase the playback speed",
 		"description": "A shortcut description."
 	},
 	"decreaseShortCut": {
-		"message": "Decrease the playback speed by 0.1",
+		"message": "Decrease the playback speed",
 		"description": "A shortcut description."
 	},
 	"source": {

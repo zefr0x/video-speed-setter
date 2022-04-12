@@ -12,11 +12,11 @@
 		"description": "A shortcut description."
 	},
 	"increaseShortCut": {
-		"message": "Afspeelsnelheid verhogen met 0.1",
+		"message": "Afspeelsnelheid verhogen",
 		"description": "A shortcut description."
 	},
 	"decreaseShortCut": {
-		"message": "Afspeelsnelheid verlagen met 0.1",
+		"message": "Afspeelsnelheid verlagen",
 		"description": "A shortcut description."
 	},
 	"source": {
