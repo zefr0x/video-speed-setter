@@ -1,6 +1,7 @@
 body {
 	direction: __MSG_@@bidi_dir__;
 	font-family: sans-serif, serif;
+	height: 250px;
 }
 
 form {
@@ -10,4 +11,13 @@ form {
 #increaseAmount {
 	width: 70px;
 	margin-left: 10px;
+	padding: 4px;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #23222b;
+		color: #ffffff;
+	}
 }

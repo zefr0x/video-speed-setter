@@ -2,7 +2,6 @@ body {
 	direction: __MSG_@@bidi_dir__;
 	min-width: 70px;
 	height: 55px;
-	background-color: #000000;
 	font-family: sans-serif, serif;
 	overflow: hidden;
 	user-select: none;
@@ -18,28 +17,69 @@ body {
 	position: absolute;
 	left: 50%;
 	transform: translate(-50%);
-	color: #f5deb3;
 	font-size: 30px;
 	background-color: transparent;
-	caret-color: #73020C;
 	-moz-appearance: textfield;
 	appearance: textfield;
 }
 
-#speedInput::selection {
-	background-color: #40010D;
-	color: #f5deb3a2;
-}
-
 footer {
 	font-size: 8.9px;
-	color: #9c9c9c;
 	text-align: center;
 	position: relative;
 	top: 45px;
 }
 
 a {
-	color: #808080;
 	text-decoration: none;
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+	body {
+		background-color: white;
+	}
+
+	#speedInput {
+		caret-color: black;
+		color: black;
+	}
+
+	#speedInput::selection {
+		background-color: #5b5b66;
+		color: whitesmoke;
+	}
+
+	footer {
+		color: #9c9c9c;
+	}
+
+	a {
+		color: #5b5b66;
+	}
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #000000;
+	}
+
+	#speedInput {
+		caret-color: #808080;
+		color: #ffffff;
+	}
+
+	#speedInput::selection {
+		background-color: whitesmoke;
+		color: black;
+	}
+
+	footer {
+		color: #afafaf;
+	}
+
+	a {
+		color: #9b9b9b;
+	}
 }
