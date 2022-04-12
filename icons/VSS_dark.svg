@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker2656"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2654" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2646"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2644" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1920" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2628"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2626" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1941" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1935" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1923" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1908" />
+    </marker>
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g6492"
+       style="fill:#787881;fill-opacity:1">
+      <g
+         id="g2385"
+         transform="matrix(1.284104,0,0,1.284104,-25.991716,-24.438314)"
+         style="fill:#787881;fill-opacity:1">
+        <path
+           id="path6481"
+           style="stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3, 9;fill:#787881;fill-opacity:1"
+           d="m 58.244965,89.119194 -18.366492,10.603899 -18.366491,10.603897 0,-21.207797 0,-21.207796 18.366492,10.603899 z" />
+        <path
+           id="path6478"
+           style="stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3, 9;fill:#787881;fill-opacity:1"
+           transform="translate(59.03227,5.6634445)"
+           d="m 49.66313,83.45575 -18.366492,10.603899 -18.366491,10.603901 0,-21.207801 0,-21.207797 18.366492,10.603899 z" />
+        <path
+           id="path6475"
+           style="stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3, 9;fill:#787881;fill-opacity:1"
+           transform="translate(109.48271,5.6634445)"
+           d="m 49.66313,83.45575 -18.366492,10.603899 -18.366491,10.603901 0,-21.207801 0,-21.207797 18.366492,10.603899 z" />
+      </g>
+      <g
+         id="g5404"
+         style="fill:#787881;fill-opacity:1">
+        <path
+           style="color:#000000;fill:#787881;-inkscape-stroke:none;fill-opacity:1"
+           d="m 42.335937,0 c 0,0 -13.893676,2.5596555 -26.636718,14.109375 C 2.7718035,25.826202 0,40.324219 0,40.324219 l 9.7246094,1.855468 c 0,0 2.1358066,-11.229212 12.6230466,-20.734375 C 33.019269,11.773044 44.126953,9.7363281 44.126953,9.7363281 Z"
+           id="path4060" />
+        <path
+           style="color:#000000;fill:#787881;-inkscape-stroke:none;fill-opacity:1"
+           d="m 137.66406,0 -1.79101,9.7363281 c 0,0 11.10768,2.0367149 21.77929,11.7089839 10.48724,9.505162 12.62305,20.734375 12.62305,20.734375 L 180,40.324219 c 0,0 -2.7718,-14.498017 -15.69922,-26.214844 C 151.55774,2.559656 137.66406,0 137.66406,0 Z"
+           id="path4060-3" />
+        <path
+           style="color:#000000;fill:#787881;-inkscape-stroke:none;fill-opacity:1"
+           d="M 9.7246094,137.82031 0,139.67578 c 0,0 2.7718016,14.49802 15.699219,26.21484 C 28.442261,177.44035 42.335937,180 42.335937,180 l 1.791016,-9.73633 c 0,0 -11.107684,-2.03671 -21.779297,-11.70898 C 11.860417,149.04953 9.7246094,137.82031 9.7246094,137.82031 Z"
+           id="path4060-6" />
+        <path
+           style="color:#000000;fill:#787881;-inkscape-stroke:none;fill-opacity:1"
+           d="m 170.27539,137.82031 c 0,0 -2.13581,11.22922 -12.62305,20.73438 -10.67161,9.67227 -21.77929,11.70898 -21.77929,11.70898 L 137.66406,180 c 0,0 13.89368,-2.55965 26.63672,-14.10938 C 177.2282,154.1738 180,139.67578 180,139.67578 Z"
+           id="path4060-3-2" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -7,11 +7,11 @@
 	"description": "__MSG_extensionDescription__",
 	"homepage_url": "https://github.com/zer0-x/video-speed-setter",
 	"icons": {
-		"16": "icons/VSS-logo.svg",
-		"32": "icons/VSS-logo.svg",
-		"48": "icons/VSS-logo.svg",
-		"96": "icons/VSS-logo.svg",
-		"128": "icons/VSS-logo.svg"
+		"16": "icons/VSS_dark.svg",
+		"32": "icons/VSS_dark.svg",
+		"48": "icons/VSS_dark.svg",
+		"96": "icons/VSS_dark.svg",
+		"128": "icons/VSS_dark.svg"
 	},
 	"permissions": [
 		"activeTab",
@@ -43,12 +43,23 @@
 		]
 	},
 	"browser_action": {
-		"default_icon": "icons/VSS-logo.svg",
+		"default_icon": "icons/VSS_dark.svg",
+		"theme_icons": [
+			{
+				"light": "icons/VSS_light.svg",
+				"dark": "icons/VSS_dark.svg",
+				"size": 16
+			},
+			{
+				"light": "icons/VSS_light.svg",
+				"dark": "icons/VSS_dark.svg",
+				"size": 32
+			}
+		],
 		"default_title": "__MSG_extensionName__",
 		"default_popup": "popup/popup.html"
 	},
 	"options_ui": {
-		"page": "options/options.html",
-		"browser_style": true
+		"page": "options/options.html"
 	}
 }

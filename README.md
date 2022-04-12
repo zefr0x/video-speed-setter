@@ -44,10 +44,4 @@ It only access the current tab, the video playpack rate will be changed only in 
 - English
 - Dutch `Uncompleted`
 
-If you master in another language you can add it ![here](https://github.com/ZER0-X/video-speed-setter/tree/main/src/_locales). 😁
-
-# Logo
-
-<img width=200 src="https://raw.githubusercontent.com/ZER0-X/video-speed-setter/main/icons/VSS-logo.svg">
-
-_The logo represents ```Time is money```._
+If you are master in another language you can add it ![here](https://github.com/ZER0-X/video-speed-setter/tree/main/_locales). 😁
