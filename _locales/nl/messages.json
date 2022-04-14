@@ -28,11 +28,11 @@
 		"description": "Author name."
 	},
 	"increaseAmountLable": {
-		"message": "Increase/Decrease amount",
+		"message": "Hoeveelheid verhogen/verlagen",
 		"description": "First label in preferences"
 	},
 	"saveButton": {
-		"message": "Save",
+		"message": "Opslaan",
 		"description": "Save button"
 	}
 }
