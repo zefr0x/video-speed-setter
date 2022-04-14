@@ -42,6 +42,6 @@ It only access the current tab, the video playpack rate will be changed only in 
 # Languages
 - Arabic
 - English
-- Dutch `Uncompleted`
+- Dutch
 
 If you are master in another language you can add it ![here](https://github.com/ZER0-X/video-speed-setter/tree/main/_locales). 😁
