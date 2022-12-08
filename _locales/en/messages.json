@@ -1,38 +1,38 @@
 {
-	"extensionName": {
-		"message": "Video Speed Setter",
-		"description": "Name of the extension."
-	},
-	"extensionDescription": {
-		"message": "Save your time and get more information in less time by speeding up videos on any time and in any website.",
-		"description": "Description of the extension."
-	},
-	"executeBrowserActionShortCut": {
-		"message": "Open the popup",
-		"description": "A shortcut description."
-	},
-	"increaseShortCut": {
-		"message": "Increase the playback speed",
-		"description": "A shortcut description."
-	},
-	"decreaseShortCut": {
-		"message": "Decrease the playback speed",
-		"description": "A shortcut description."
-	},
-	"source": {
-		"message": "Source",
-		"description": "Source."
-	},
-	"author": {
-		"message": "zer0-x",
-		"description": "Author name."
-	},
-	"increaseAmountLable": {
-		"message": "Increase/Decrease amount",
-		"description": "First label in preferences"
-	},
-	"saveButton": {
-		"message": "Save",
-		"description": "Save button"
-	}
+    "extensionName": {
+        "message": "Video Speed Setter",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Save your time and get more information in less time by speeding up videos on any time and in any website.",
+        "description": "Description of the extension."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Open the popup",
+        "description": "A shortcut description."
+    },
+    "increaseShortCut": {
+        "message": "Increase the playback speed",
+        "description": "A shortcut description."
+    },
+    "decreaseShortCut": {
+        "message": "Decrease the playback speed",
+        "description": "A shortcut description."
+    },
+    "source": {
+        "message": "Source",
+        "description": "Source."
+    },
+    "author": {
+        "message": "zer0-x",
+        "description": "Author name."
+    },
+    "increaseAmountLable": {
+        "message": "Increase/Decrease amount",
+        "description": "First label in preferences"
+    },
+    "saveButton": {
+        "message": "Save",
+        "description": "Save button"
+    }
 }

@@ -1,38 +1,38 @@
 {
-	"extensionName": {
-		"message": "مُحَدِّدُ سُرعَةِ المَقَاطِعِ المَرئيِّة",
-		"description": "اِسمُ المُلحَق."
-	},
-	"extensionDescription": {
-		"message": "اِحفَظ وَقتَكَ وَاحصُل عَلَى مَزيدٍ مِنَ المَعلُومَاتِ فِي وَقتٍ أقَل عَن طَريقِ تَسريعِ المَقاطِعِ المَرئيَّةِ فِي أيِّ وَقتٍ وَفِي أيِّ مَوقِعٍ إلكتُرُونيّ.",
-		"description": "وَصفُ المُلحَق"
-	},
-	"executeBrowserActionShortCut": {
-		"message": "فَتحُ النَّافِذَةِ المُنبَثِقَة",
-		"description": "وَصفُ اِختِصار."
-	},
-	"increaseShortCut": {
-		"message": "زِيادَةُ سُرعَةِ التَّشغِيل",
-		"description": "وَصفُ اِختِصار."
-	},
-	"decreaseShortCut": {
-		"message": "تَقلِيلُ سُرعَةِ التَّشغِيل",
-		"description": "وَصفُ اِختِصار."
-	},
-	"source": {
-		"message": "المَصدَر",
-		"description": "المَصدَر."
-	},
-	"author": {
-		"message": "zer0-x",
-		"description": "اِسمُ الكاتِب."
-	},
-	"increaseAmountLable": {
-		"message": "مِقدارُ الزِيادةِ وَالنُقصان",
-		"description": "اسم الحقل الأول في التفضيلات"
-	},
-	"saveButton": {
-		"message": "اِحفَظ",
-		"description": "زر حفظ التفضيلات"
-	}
+    "extensionName": {
+        "message": "مُحَدِّدُ سُرعَةِ المَقَاطِعِ المَرئيِّة",
+        "description": "اِسمُ المُلحَق."
+    },
+    "extensionDescription": {
+        "message": "اِحفَظ وَقتَكَ وَاحصُل عَلَى مَزيدٍ مِنَ المَعلُومَاتِ فِي وَقتٍ أقَل عَن طَريقِ تَسريعِ المَقاطِعِ المَرئيَّةِ فِي أيِّ وَقتٍ وَفِي أيِّ مَوقِعٍ إلكتُرُونيّ.",
+        "description": "وَصفُ المُلحَق"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "فَتحُ النَّافِذَةِ المُنبَثِقَة",
+        "description": "وَصفُ اِختِصار."
+    },
+    "increaseShortCut": {
+        "message": "زِيادَةُ سُرعَةِ التَّشغِيل",
+        "description": "وَصفُ اِختِصار."
+    },
+    "decreaseShortCut": {
+        "message": "تَقلِيلُ سُرعَةِ التَّشغِيل",
+        "description": "وَصفُ اِختِصار."
+    },
+    "source": {
+        "message": "المَصدَر",
+        "description": "المَصدَر."
+    },
+    "author": {
+        "message": "zer0-x",
+        "description": "اِسمُ الكاتِب."
+    },
+    "increaseAmountLable": {
+        "message": "مِقدارُ الزِيادةِ وَالنُقصان",
+        "description": "اسم الحقل الأول في التفضيلات"
+    },
+    "saveButton": {
+        "message": "اِحفَظ",
+        "description": "زر حفظ التفضيلات"
+    }
 }

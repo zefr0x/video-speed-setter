@@ -1,85 +1,85 @@
 body {
-	direction: __MSG_@@bidi_dir__;
-	min-width: 70px;
-	height: 55px;
-	font-family: sans-serif, serif;
-	overflow: hidden;
-	user-select: none;
+    direction: __MSG_ @@bidi_dir__;
+    min-width: 70px;
+    height: 55px;
+    font-family: sans-serif, serif;
+    overflow: hidden;
+    user-select: none;
 }
 
 #speedInput {
-	direction: ltr;
-	box-sizing: border-box;
-	border: none;
-	outline: none;
-	width: 80%;
-	height: 40px;
-	position: absolute;
-	left: 50%;
-	transform: translate(-50%);
-	font-size: 30px;
-	background-color: transparent;
-	-moz-appearance: textfield;
-	appearance: textfield;
+    direction: ltr;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    width: 80%;
+    height: 40px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 30px;
+    background-color: transparent;
+    -moz-appearance: textfield;
+    appearance: textfield;
 }
 
 footer {
-	font-size: 8.9px;
-	text-align: center;
-	position: relative;
-	top: 45px;
+    font-size: 8.9px;
+    text-align: center;
+    position: relative;
+    top: 45px;
 }
 
 a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 /* Light mode */
 @media (prefers-color-scheme: light) {
-	body {
-		background-color: white;
-	}
+    body {
+        background-color: white;
+    }
 
-	#speedInput {
-		caret-color: black;
-		color: black;
-	}
+    #speedInput {
+        caret-color: black;
+        color: black;
+    }
 
-	#speedInput::selection {
-		background-color: #5b5b66;
-		color: whitesmoke;
-	}
+    #speedInput::selection {
+        background-color: #5b5b66;
+        color: whitesmoke;
+    }
 
-	footer {
-		color: #9c9c9c;
-	}
+    footer {
+        color: #9c9c9c;
+    }
 
-	a {
-		color: #5b5b66;
-	}
+    a {
+        color: #5b5b66;
+    }
 }
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
-	body {
-		background-color: #000000;
-	}
+    body {
+        background-color: #000000;
+    }
 
-	#speedInput {
-		caret-color: #808080;
-		color: #ffffff;
-	}
+    #speedInput {
+        caret-color: #808080;
+        color: #ffffff;
+    }
 
-	#speedInput::selection {
-		background-color: whitesmoke;
-		color: black;
-	}
+    #speedInput::selection {
+        background-color: whitesmoke;
+        color: black;
+    }
 
-	footer {
-		color: #afafaf;
-	}
+    footer {
+        color: #afafaf;
+    }
 
-	a {
-		color: #9b9b9b;
-	}
+    a {
+        color: #9b9b9b;
+    }
 }

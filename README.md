@@ -1,6 +1,7 @@
 🔴 Help wanted in [#2](https://github.com/ZER0-X/video-speed-setter/issues/2)
 
 # Video Speed Setter
+
 [![license](https://shields.io/github/license/ZER0-X/video-speed-setter)](https://github.com/ZER0-X/video-speed-setter/blob/main/LICENSE)
 [![version](https://shields.io/amo/v/video-speed-setter?label=version)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
 [![downloads](https://shields.io/amo/dw/video-speed-setter)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
@@ -11,8 +12,8 @@
 
 A browser extensions that gives you a simpe control over the video playback rate in the current web page.
 
->  Time is money. 😎
->  
+> Time is money. 😎
+>
 > Time is all I have. 😎
 
 Save your time and get more information in less time by speeding up videos on any time and in any website.
@@ -24,24 +25,27 @@ You will tell me that some sites have speed control, why i need your useless ext
 😜 Well, most sites have options such as 1.25x, 1.5 and 2.0 but using this extension you are able to select any speed you want and this gives you greater experience because you can use any that suits your needs.
 
 ## How to use it?
+
 it's semple and very easy to use. 😏
 
-- Click on the toolbar extensions icon or use the shortcut ```Alt+K``` to open the popup, then type the playback speed that you want.
+-   Click on the toolbar extensions icon or use the shortcut `Alt+K` to open the popup, then type the playback speed that you want.
 
-- You can also use the mouse scroll on the input field to set the speed.
+-   You can also use the mouse scroll on the input field to set the speed.
 
 **Note that the change is applied immediate to the video. 😏**
 
 ### This process is too slow, right? 🤔
 
-- If you want to save more time, use the shortcuts ```Alt+L``` & ```Alt+J``` to increase or decrease the playback speed by 0.1 😏
+-   If you want to save more time, use the shortcuts `Alt+L` & `Alt+J` to increase or decrease the playback speed by 0.1 😏
 
 # Permissions
+
 It only access the current tab, the video playpack rate will be changed only in it.
 
 # Languages
-- Arabic
-- English
-- Dutch
+
+-   Arabic
+-   English
+-   Dutch
 
 If you are master in another language you can add it ![here](https://github.com/ZER0-X/video-speed-setter/tree/main/_locales). 😁
