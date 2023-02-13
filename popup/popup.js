@@ -12,16 +12,33 @@ document
 ["keyup", "change"].forEach((event) =>
     document
         .getElementById("speedInput")
-        .addEventListener(event, applyPlayBackRate),
+        .addEventListener(event, applyPlayBackRateForCurrentTab),
 );
 
-function applyPlayBackRate() {
-    const executing = browser.tabs.executeScript({
-        code:
-            "document.querySelectorAll('video').forEach(video => video.playbackRate =" +
-            document.getElementById("speedInput").value +
-            ")",
-    });
+async function applyPlayBackRateForCurrentTab() {
+    let tab = await browser.tabs
+        .query({ active: true, windowId: browser.windows.WINDOW_ID_CURRENT })
+        .then((tabs) => browser.tabs.get(tabs[0].id))
+        .then();
 
-    executing;
+    try {
+        browser.scripting
+            .executeScript({
+                target: {
+                    tabId: tab.id,
+                },
+                injectImmediately: true,
+                args: [document.getElementById("speedInput").value],
+                func: (rate) => {
+                    document
+                        .querySelectorAll("video")
+                        .forEach((video) => (video.playbackRate = rate));
+                },
+            })
+            .then();
+    } catch (err) {
+        console.error(
+            `can't apply playback rate, failed to execute script: ${err}`,
+        );
+    }
 }

@@ -6,23 +6,43 @@ function getIncreaseAmount(restoredSettings) {
     return increaseAmount;
 }
 
-function applyPlayBackRate(amount) {
-    const executing = browser.tabs.executeScript({
-        code: `document.querySelectorAll('video').forEach(video => video.playbackRate += ${amount})`,
-    });
-
-    executing;
+async function applyPlayBackRate(tab, amount) {
+    try {
+        browser.scripting
+            .executeScript({
+                target: {
+                    tabId: tab.id,
+                },
+                injectImmediately: true,
+                args: [amount],
+                func: (amount) => {
+                    document
+                        .querySelectorAll("video")
+                        .forEach((video) => (video.playbackRate += amount));
+                },
+            })
+            .then();
+    } catch (err) {
+        console.error(
+            `can't apply playback rate, failed to execute script: ${err}`,
+        );
+    }
 }
 
-browser.commands.onCommand.addListener(function (command) {
-    browser.storage.local
+browser.commands.onCommand.addListener(async function (command) {
+    let tab = await browser.tabs
+        .query({ active: true, windowId: browser.windows.WINDOW_ID_CURRENT })
+        .then((tabs) => browser.tabs.get(tabs[0].id))
+        .then();
+
+    await browser.storage.local
         .get()
         .then(getIncreaseAmount)
         .then(function (increaseAmount) {
             if (command === "increase") {
-                applyPlayBackRate(increaseAmount);
+                applyPlayBackRate(tab, +increaseAmount);
             } else if (command === "decrease") {
-                applyPlayBackRate(-increaseAmount);
+                applyPlayBackRate(tab, -increaseAmount);
             }
         });
 });
