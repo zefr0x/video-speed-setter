@@ -6,7 +6,7 @@ function getIncreaseAmount(restoredSettings) {
     return increaseAmount;
 }
 
-async function applyPlayBackRate(tab, amount) {
+function applyPlayBackRate(tab, amount) {
     try {
         browser.scripting
             .executeScript({
@@ -30,7 +30,7 @@ async function applyPlayBackRate(tab, amount) {
 }
 
 browser.commands.onCommand.addListener(async function (command) {
-    let tab = await browser.tabs
+    const tab = browser.tabs
         .query({ active: true, windowId: browser.windows.WINDOW_ID_CURRENT })
         .then((tabs) => browser.tabs.get(tabs[0].id))
         .then();
