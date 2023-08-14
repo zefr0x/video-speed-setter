@@ -5,7 +5,7 @@
     "default_locale": "en",
     "author": "__MSG_author__",
     "description": "__MSG_extensionDescription__",
-    "homepage_url": "https://github.com/zer0-x/video-speed-setter",
+    "homepage_url": "https://github.com/zefr0x/video-speed-setter",
     "browser_specific_settings": {
         "gecko": {
             "id": "video_speed_setter@zer0_x.github.io",
