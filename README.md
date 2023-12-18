@@ -9,7 +9,7 @@
 [![stars](https://shields.io/amo/stars/video-speed-setter)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
 [![AUR votes](https://img.shields.io/aur/votes/firefox-video-speed-setter-git?label=AUR%20votes)](https://aur.archlinux.org/packages/firefox-video-speed-setter-git)
 
-[![get-the-add-on badge](https://raw.githubusercontent.com/ZER0-X/badges/main/mozilla/firefox-addons/get-the-add-on.svg)](https://addons.mozilla.org/en-US/firefox/addon/video-speed-setter)
+[![get-the-add-on badge](https://raw.githubusercontent.com/ZER0-X/badges/main/mozilla/firefox-addons/get-the-add-on.svg)](https://addons.mozilla.org/firefox/addon/video-speed-setter)
 
 A browser extensions that gives you a simple control over the video playback rate in the current web page.
 
