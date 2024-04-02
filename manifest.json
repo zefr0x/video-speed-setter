@@ -8,7 +8,7 @@
     "homepage_url": "https://github.com/zefr0x/video-speed-setter",
     "browser_specific_settings": {
         "gecko": {
-            "id": "video_speed_setter@zer0_x.github.io",
+            "id": "video_speed_setter@zefr0x.github.io",
             "strict_min_version": "109.0"
         }
     },
