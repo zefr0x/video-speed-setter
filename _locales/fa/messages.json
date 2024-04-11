@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "تنظیم کننده سرعت ویدیو",
+        "description": "نام افزونه"
+    },
+    "extensionDescription": {
+        "message": "با افزایش سرعت ویدیو در هر زمان و در هر وب‌سایت، زمان خود را صرفه‌جویی کرده و در کمترین زمان بیشترین اطلاعات را دریافت کنید.",
+        "description": "توضیحات افزونه"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "پنجره را باز کنید",
+        "description": "توضیحات میانبر"
+    },
+    "increaseShortCut": {
+        "message": "سرعت پخش را افزایش دهید",
+        "description": "توضیحات میانبر"
+    },
+    "decreaseShortCut": {
+        "message": "سرعت پخش را کاهش دهید",
+        "description": "توضیحات میانبر"
+    },
+    "source": {
+        "message": "منبع",
+        "description": "منبع"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "نام نویسنده"
+    },
+    "increaseAmountLable": {
+        "message": "مقدار افزایش/کاهش",
+        "description": "برچسب اول در ترجیحات"
+    },
+    "saveButton": {
+        "message": "ذخیره",
+        "description": "دکمه ذخیره"
+    }
+}

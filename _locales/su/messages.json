@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Pangatur Cepet Video",
+        "description": "Nami panambatan"
+    },
+    "extensionDescription": {
+        "message": "Hemat waktos anjeun sareng daptar langkung informasi dina waktos pondok ku nambahkeun kecapan video dina sauyunan wéb sareng dina waktos sok.",
+        "description": "Pertélaan panambatan"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Buka pop-up",
+        "description": "Pertélaan singkatan"
+    },
+    "increaseShortCut": {
+        "message": "Tingkatkeun kecapan puter",
+        "description": "Pertélaan singkatan"
+    },
+    "decreaseShortCut": {
+        "message": "Kurangkeun kecapan puter",
+        "description": "Pertélaan singkatan"
+    },
+    "source": {
+        "message": "Sumber",
+        "description": "Sumber"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Nami panulis"
+    },
+    "increaseAmountLable": {
+        "message": "Jumlah Peningkatan/Penurunan",
+        "description": "Label pangagegana dina prioritas"
+    },
+    "saveButton": {
+        "message": "Simpen",
+        "description": "Tombol Simpen"
+    }
+}

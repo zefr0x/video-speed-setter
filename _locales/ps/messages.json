@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ویڈیو رفتار ترتیب دے",
+        "description": "ترقیب دے ناں"
+    },
+    "extensionDescription": {
+        "message": "ہر کنکرٹ ویب سائٹ ہے اور ہر وقت ویڈیو دے رفتار وڈیو ڈال کر وقت چھکچھڑا چکیں تے زیادہ معلومات حاصل کریں۔",
+        "description": "ترقیب دے تفصیلات"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "پاپ اوپن کرو",
+        "description": "ایک مختصر تفصیل"
+    },
+    "increaseShortCut": {
+        "message": "پلے بیک رفتار بڑھاو",
+        "description": "ایک مختصر تفصیل"
+    },
+    "decreaseShortCut": {
+        "message": "پلے بیک رفتار گھٹائو",
+        "description": "ایک مختصر تفصیل"
+    },
+    "source": {
+        "message": "سرچ",
+        "description": "سرچ"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "لیکھن چاولاک"
+    },
+    "increaseAmountLable": {
+        "message": "رفتار بڑھاؤ/گھٹاؤ مقدار",
+        "description": "ترجیحات وچ پہلا لیبل"
+    },
+    "saveButton": {
+        "message": "محفوظ کرو",
+        "description": "محفوظ کرن دا بٹن"
+    }
+}

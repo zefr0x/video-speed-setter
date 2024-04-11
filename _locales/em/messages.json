@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "📹🚀",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "💾⏱️⏫ Save your time and get more information in less time by speeding up videos on any time and in any website.",
+        "description": "Description of the extension."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "🚀🔍📰",
+        "description": "A shortcut description."
+    },
+    "increaseShortCut": {
+        "message": "⏫⏩",
+        "description": "A shortcut description."
+    },
+    "decreaseShortCut": {
+        "message": "⏬⏪",
+        "description": "A shortcut description."
+    },
+    "source": {
+        "message": "🔍📖",
+        "description": "Source."
+    },
+    "author": {
+        "message": "👨‍💻 zefr0x",
+        "description": "Author name."
+    },
+    "increaseAmountLable": {
+        "message": "⏫⏬↕️ Increase/Decrease amount",
+        "description": "First label in preferences"
+    },
+    "saveButton": {
+        "message": "💾",
+        "description": "Save button"
+    }
+}

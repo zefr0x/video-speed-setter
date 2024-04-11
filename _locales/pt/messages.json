@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Controlador de Velocidade de Vídeo",
+        "description": "Nome da extensão."
+    },
+    "extensionDescription": {
+        "message": "Economize tempo e obtenha mais informações em menos tempo acelerando vídeos a qualquer momento e em qualquer site.",
+        "description": "Descrição da extensão."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Abrir janela pop-up",
+        "description": "Descrição do atalho."
+    },
+    "increaseShortCut": {
+        "message": "Aumentar a velocidade de reprodução", 
+        "description": "Descrição do atalho."
+    },
+    "decreaseShortCut": {
+        "message": "Diminuir a velocidade de reprodução", 
+        "description": "Descrição do atalho."
+    },
+    "source": {
+        "message": "Fonte",
+        "description": "Fonte."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Nome do autor."
+    },
+    "increaseAmountLable": {
+        "message": "Quantidade para aumentar/diminuir",
+        "description": "Primeiro rótulo nas preferências"
+    }, 
+    "saveButton": {
+        "message": "Salvar", 
+        "description": "Botão Salvar"
+    }
+} 

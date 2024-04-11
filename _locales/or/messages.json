@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ଭିଡିଓ ସ୍ପିଡ୍ ସେଟର୍",
+        "description": "ଏକ୍ସଟେନ୍ସନର ନାମ।"
+    },
+    "extensionDescription": {
+        "message": "ଯାହାହା ଓଳନାମ୍ବରେ ଏବଂ ଯାହାହା ସମୟରେ ଭିଡିଓଗୁଡିକ ଗତି ବଢ଼ାଇନ୍ତୁ, କମ ସମୟରେ ଅଧିକ ଜାଣନ୍ତୁ।",
+        "description": "ଏକ୍ସଟେନ୍ସନର ବର୍ଣ୍ଣନା।"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "ପପ-ଅପ ଖୋଲନ୍ତୁ",
+        "description": "ଏକ ଶୋର୍ଟକଟ୍ ବର୍ଣ୍ଣନା।"
+    },
+    "increaseShortCut": {
+        "message": "ପ୍ଲେବ୍ୟାକ ଗତି ବୃଦ୍ଧି କରନ୍ତୁ",
+        "description": "ଏକ ଶୋର୍ଟକଟ୍ ବର୍ଣ୍ଣନା।"
+    },
+    "decreaseShortCut": {
+        "message": "ପ୍ଲେବ୍ୟାକ ଗତି ହେଲାଣି",
+        "description": "ଏକ ଶୋର୍ଟକଟ୍ ବର୍ଣ୍ଣନା।"
+    },
+    "source": {
+        "message": "ସ୍ରୋତ",
+        "description": "ସ୍ରୋତ।"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "ଲେଖକଙ୍କ ନାମ।"
+    },
+    "increaseAmountLable": {
+        "message": "ବୃଦ୍ଧି/ ଘଟଣି ପରିମା",
+        "description": "ପସନ୍ଦଗୁଡିକୁ ପ୍ରଥମ ଲେବଲ୍"
+    },
+    "saveButton": {
+        "message": "ସେଭ୍",
+        "description": "ସେଭ୍ ବଟନ୍"
+    }
+}

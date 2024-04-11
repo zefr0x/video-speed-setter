@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "වීඩියෝ ප්‍රවේශ සැකසුම",
+        "description": "දිනයේ නම"
+    },
+    "extensionDescription": {
+        "message": "ඕනෑම වෙබ් අඩවියට ඕනෑම වේදිකාවට සහ කාලයක් වීඩියෝ පෙරහන් කිරීමෙන් ඔබේ කාලය සුදුසු තත්ත්වයෙන් ස්ථාපනය කරන්න සහ තවත් තත්ත්වයක් ලබා ගන්න.",
+        "description": "වේදිකාවේ විස්තර"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "පොප්ප් වෙනස් කරන්න",
+        "description": "ස්ථාපනය සහිතව වෙළුණු කිරීම."
+    },
+    "increaseShortCut": {
+        "message": "ප්ලේ බැක් ප්රවේශය ඉවත් කරන්න",
+        "description": "ස්ථාපනය සහිතව වෙළුණු කිරීම."
+    },
+    "decreaseShortCut": {
+        "message": "ප්ලේ බැක් ප්රවේශය අඩු කරන්න",
+        "description": "ස්ථාපනය සහිතව වෙළුණු කිරීම."
+    },
+    "source": {
+        "message": "මුල් පිටුව",
+        "description": "මුල් පිටුව."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "කර්තෘ නම."
+    },
+    "increaseAmountLable": {
+        "message": "වැඩි/අඩු ප්‍රමාණය",
+        "description": "අනාගත ලේබලය."
+    },
+    "saveButton": {
+        "message": "සුරකින්න",
+        "description": "සුරක්ෂිත්ව කිරීමේ බොත්තම"
+    }
+}

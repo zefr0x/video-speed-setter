@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "비디오 속도 설정기",
+        "description": "확장 프로그램의 이름."
+    },
+    "extensionDescription": {
+        "message": "어떤 웹 사이트에서든 언제든지 비디오 재생 속도를 높여서 더 적은 시간에 더 많은 정보를 얻으세요.",
+        "description": "확장 프로그램의 설명."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "팝업 열기",
+        "description": "단축키 설명."
+    },
+    "increaseShortCut": {
+        "message": "재생 속도 증가",
+        "description": "단축키 설명."
+    },
+    "decreaseShortCut": {
+        "message": "재생 속도 감소",
+        "description": "단축키 설명."
+    },
+    "source": {
+        "message": "출처",
+        "description": "출처."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "저자 이름."
+    },
+    "increaseAmountLable": {
+        "message": "증가/감소량",
+        "description": "설정에서의 첫 번째 라벨"
+    },
+    "saveButton": {
+        "message": "저장",
+        "description": "저장 버튼"
+    }
+}

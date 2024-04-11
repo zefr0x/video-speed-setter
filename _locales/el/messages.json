@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Ρυθμιστής ταχύτητας βίντεο",
+        "description": "Όνομα της επέκτασης."
+    },
+    "extensionDescription": {
+        "message": "Εξοικονομήστε χρόνο και λάβετε περισσότερες πληροφορίες σε λιγότερο χρόνο επιταχύνοντας τα βίντεο οποιαδήποτε στιγμή και σε οποιοδήποτε ιστότοπο.",
+        "description": "Περιγραφή της επέκτασης."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Ανοίξτε το αναδυόμενο παράθυρο",
+        "description": "Μια σύντομη περιγραφή."
+    },
+    "increaseShortCut": {
+        "message": "Αυξήστε την ταχύτητα αναπαραγωγής",
+        "description": "Μια σύντομη περιγραφή."
+    },
+    "decreaseShortCut": {
+        "message": "Μειώστε την ταχύτητα αναπαραγωγής",
+        "description": "Μια σύντομη περιγραφή."
+    },
+    "source": {
+        "message": "Πηγή",
+        "description": "Πηγή."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Το όνομα του συγγραφέα."
+    },
+    "increaseAmountLable": {
+        "message": "Αυξήστε/Μειώστε την ποσότητα",
+        "description": "Πρώτη ετικέτα στις προτιμήσεις"
+    },
+    "saveButton": {
+        "message": "Αποθήκευση",
+        "description": "Κουμπί αποθήκευσης"
+    }
+}

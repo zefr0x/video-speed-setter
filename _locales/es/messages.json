@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Configurador de velocidad de video",
+        "description": "Nombre de la extensión."
+    },
+    "extensionDescription": {
+        "message": "Ahorra tiempo y obtén más información en menos tiempo acelerando videos en cualquier momento y en cualquier sitio web.",
+        "description": "Descripción de la extensión."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Abrir ventana emergente", 
+        "description": "Descripción del acceso directo."
+    },
+    "increaseShortCut": {
+        "message": "Aumentar la velocidad de reproducción",
+        "description": "Descripción del acceso directo."
+    },
+    "decreaseShortCut": {
+        "message": "Disminuir la velocidad de reproducción",
+        "description": "Descripción del acceso directo."
+    },
+    "source": {
+        "message": "Fuente",
+        "description": "Fuente."
+    },
+    "author": {
+        "message": "zefr0x", 
+        "description": "Nombre del autor."
+    },
+    "increaseAmountLable": {
+        "message": "Cantidad a aumentar/disminuir",
+        "description": "Primera etiqueta en las preferencias"
+    },
+    "saveButton": {
+        "message": "Guardar",
+        "description": "Botón de guardar"
+    }
+}

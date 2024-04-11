@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Бейне жылжыту тездікшісі",
+        "description": "Көрсеткіш атауы."
+    },
+    "extensionDescription": {
+        "message": "Кез келген уақытта және кез келген веб-сайттағы бейне тездігін арттыру арқылы уақытты сақтаңыз және арқалы ақпаратты көбірек алыңыз.",
+        "description": "Көрсеткіш сипаттамасы."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Поп-апты ашу",
+        "description": "Шоткат сипаттамасы."
+    },
+    "increaseShortCut": {
+        "message": "Ойын көрсету жылдамдығын арттыру",
+        "description": "Шоткат сипаттамасы."
+    },
+    "decreaseShortCut": {
+        "message": "Ойын көрсету жылдамдығын көбейту",
+        "description": "Шоткат сипаттамасы."
+    },
+    "source": {
+        "message": "Мәні",
+        "description": "Мәні."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Автор аты."
+    },
+    "increaseAmountLable": {
+        "message": "Мөлшерін арттыру/азайту",
+        "description": "Бірінші тағайындау"
+    },
+    "saveButton": {
+        "message": "Сақтау",
+        "description": "Сақтау түймесі"
+    }
+}

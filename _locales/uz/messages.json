@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Videoni tezlik sozlaydigan",
+        "description": "Kengaytma nomi"
+    },
+    "extensionDescription": {
+        "message": "Har qanday veb-saytda va har qanday vaqt videoni tezlik sozlash orqali vaqtingizni tejash va kamroq vaqt ichida ko'proq ma'lumot olish.",
+        "description": "Kengaytma ta'riflash"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Popupni oching",
+        "description": "Qisqa izoh"
+    },
+    "increaseShortCut": {
+        "message": "O'ynatish tezligini oshiring",
+        "description": "Qisqa izoh"
+    },
+    "decreaseShortCut": {
+        "message": "O'ynatish tezligini pasaytiring",
+        "description": "Qisqa izoh"
+    },
+    "source": {
+        "message": "Manba",
+        "description": "Manba"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Muallifning ismi"
+    },
+    "increaseAmountLable": {
+        "message": "Oshirish/Kamaytirish miqdori",
+        "description": "Sozlamalarning birinchi labeli"
+    },
+    "saveButton": {
+        "message": "Saqlash",
+        "description": "Saqlash tugmasi"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ការកំណត់ល្បឿនវីដេអូ",
+        "description": "ឈ្មោះ​នៃ​ធាតុ​បន្ថែម។"
+    },
+    "extensionDescription": {
+        "message": "រក្សាទុកពេលរួមបញ្ចូល និងទទួលបានពត៌មាន​ច្រើន​បន្ថែម​ក្នុង​ពេលតិច​ដោយការបើកល្បឿនវីដេអូនៅពេលណាមួយ និងនៅលើគេហទំព័រណាមួយ។",
+        "description": "ការពិពណ៌នា​នៃ​ធាតុ​បន្ថែម។"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "បើក​វីដេអូ​ផងដែរ",
+        "description": "ការ​កំណត់​តម្រឹមដ៏លម្អៀង។"
+    },
+    "increaseShortCut": {
+        "message": "ការ​កំណត់ល្បឿន​លើស",
+        "description": "ការ​កំណត់​តម្រឹមដ៏លម្អៀង។"
+    },
+    "decreaseShortCut": {
+        "message": "ការ​កំណត់ល្បឿនចុងក្រោយ",
+        "description": "ការ​កំណត់​តម្រឹមដ៏លម្អៀង។"
+    },
+    "source": {
+        "message": "ប្រភព",
+        "description": "ប្រភព។"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "ឈ្មោះអ្នកនិពន្ធ។"
+    },
+    "increaseAmountLable": {
+        "message": "កំណត់/បន្ថយ​ចំនួន",
+        "description": "ស្លាកទីមួយ​នៅក្នុងការចងចាំ"
+    },
+    "saveButton": {
+        "message": "រក្សាទុក",
+        "description": "ប៊ូតុង​រក្សាទុក"
+    }
+}

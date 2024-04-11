@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ตัวตั้งค่าความเร็ววิดีโอ",
+        "description": "ชื่อของส่วนขยาย"
+    },
+    "extensionDescription": {
+        "message": "ประหยัดเวลาของคุณและได้รับข้อมูลเพิ่มเติมในเวลาน้อยกว่าโดยเร่งความเร็วของวิดีโอบนเว็บไซต์ใดก็ได้และในเวลาใดก็ได้",
+        "description": "คำอธิบายของส่วนขยาย"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "เปิดป๊อปอัพ",
+        "description": "คำอธิบายทางลัด"
+    },
+    "increaseShortCut": {
+        "message": "เพิ่มความเร็วการเล่น",
+        "description": "คำอธิบายทางลัด"
+    },
+    "decreaseShortCut": {
+        "message": "ลดความเร็วการเล่น",
+        "description": "คำอธิบายทางลัด"
+    },
+    "source": {
+        "message": "แหล่งที่มา",
+        "description": "แหล่งที่มา"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "ชื่อผู้เขียน"
+    },
+    "increaseAmountLable": {
+        "message": "เพิ่ม/ลด ปริมาณ",
+        "description": "ป้ายกำกับแรกในการตั้งค่า"
+    },
+    "saveButton": {
+        "message": "บันทึก",
+        "description": "ปุ่มบันทึก"
+    }
+}

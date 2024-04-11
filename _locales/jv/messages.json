@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Pangatur Kepet Video",
+        "description": "Jeneng ekstensi"
+    },
+    "extensionDescription": {
+        "message": "Jimat waktumu lan daptar luwih banyak informasi dina waktos langkung salira ku ngurangi kecepétan video dina hiji situs sareng dina hiji waktos.",
+        "description": "Pertélaan ekstensi"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Buka pop-up",
+        "description": "Pertélaan pintasan"
+    },
+    "increaseShortCut": {
+        "message": "Ménta kecepétan puter",
+        "description": "Pertélaan pintasan"
+    },
+    "decreaseShortCut": {
+        "message": "Kurangi kecepétan puter",
+        "description": "Pertélaan pintasan"
+    },
+    "source": {
+        "message": "Sumber",
+        "description": "Sumber"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Jeneng panulis"
+    },
+    "increaseAmountLable": {
+        "message": "Mikrososok peningkatan/penurunan",
+        "description": "Label pilihan di prioritas"
+    },
+    "saveButton": {
+        "message": "Simpen",
+        "description": "Tombol simpen"
+    }
+}

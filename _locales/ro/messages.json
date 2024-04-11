@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Setare viteză video",
+        "description": "Numele extensiei."
+    },
+    "extensionDescription": {
+        "message": "Economisiți timp și obțineți mai multe informații în mai puțin timp, accelerând videoclipurile oricând și pe orice site web.",
+        "description": "Descrierea extensiei."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Deschideți fereastra pop-up",
+        "description": "O scurtătură pentru descriere."
+    },
+    "increaseShortCut": {
+        "message": "Creșteți viteza de redare",
+        "description": "O scurtătură pentru descriere."
+    },
+    "decreaseShortCut": {
+        "message": "Scădeați viteza de redare",
+        "description": "O scurtătură pentru descriere."
+    },
+    "source": {
+        "message": "Sursă",
+        "description": "Sursă."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Numele autorului."
+    },
+    "increaseAmountLable": {
+        "message": "Creșteți/Scădeați cantitatea",
+        "description": "Prima etichetă în preferințe"
+    },
+    "saveButton": {
+        "message": "Salvați",
+        "description": "Butonul de salvare"
+    }
+}

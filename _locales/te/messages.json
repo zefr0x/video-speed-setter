@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "వీడియో వేగం సెట్టర్",
+        "description": "పొందిన ప్రోడక్టు యొక్క పేరు."
+    },
+    "extensionDescription": {
+        "message": "ఏ వెబ్‌సైట్‌లో, ఏ సమయంలో వీడియోల వేగంను పెంచి మరియు తక్కువ సమయంలో మరియు ఎక్కువ సమాచారాన్ని పొందండి.",
+        "description": "పొందిన ప్రోడక్టు యొక్క వివరణ."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "పాప్‌అప్‌ను తెరిచేయండి",
+        "description": "చిహ్నం యొక్క వివరణ."
+    },
+    "increaseShortCut": {
+        "message": "ప్లేబ్యాక్ వేగాన్ని పెంచు",
+        "description": "చిహ్నం యొక్క వివరణ."
+    },
+    "decreaseShortCut": {
+        "message": "ప్లేబ్యాక్ వేగాన్ని తగ్గించు",
+        "description": "చిహ్నం యొక్క వివరణ."
+    },
+    "source": {
+        "message": "మూలం",
+        "description": "మూలం."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "రచయిత పేరు."
+    },
+    "increaseAmountLable": {
+        "message": "పెంచు/తగ్గుపడుతుంది పరిమాణం",
+        "description": "ప్రాధానికంగా ప్రిఫరెన్సులులో మొదటి లేబుల్."
+    },
+    "saveButton": {
+        "message": "భద్రపరచండి",
+        "description": "భద్రపరచు బటన్."
+    }
+}

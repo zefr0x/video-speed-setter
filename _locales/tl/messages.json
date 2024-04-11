@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Tagapag-set ng Bilis ng Bidyo",
+        "description": "Pangalan ng ekstensyon."
+    },
+    "extensionDescription": {
+        "message": "I-save ang iyong oras at kumuha ng mas maraming impormasyon sa mas maikling panahon sa pamamagitan ng pabilisin ang mga bidyo anumang oras at sa anumang website.",
+        "description": "Paglalarawan ng ekstensyon."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Buksan ang popup",
+        "description": "Isang shortcut description."
+    },
+    "increaseShortCut": {
+        "message": "Taasan ang bilis ng pag-play",
+        "description": "Isang shortcut description."
+    },
+    "decreaseShortCut": {
+        "message": "Bawasan ang bilis ng pag-play",
+        "description": "Isang shortcut description."
+    },
+    "source": {
+        "message": "Pinagmulan",
+        "description": "Pinagmulan."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Pangalan ng may-akda."
+    },
+    "increaseAmountLable": {
+        "message": "Taasan/Bawasan ang dami",
+        "description": "Unang label sa mga preference"
+    },
+    "saveButton": {
+        "message": "I-save",
+        "description": "Button ng pag-save"
+    }
+}

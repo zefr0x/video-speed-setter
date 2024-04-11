@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "વિડિઓ ગતિ સેટર",
+        "description": "એક્સટેન્શનનું નામ."
+    },
+    "extensionDescription": {
+        "message": "કોઈ પણ વેબસાઇટ અને કોઈ પણ સમય પર વિડિઓની ગતિ વધારીને, ઓછા સમયમાં વધુ માહિતી મેળવો.",
+        "description": "એક્સટેન્શનનું વર્ણન."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "પૉપઅપ ખોલો",
+        "description": "એક શોર્ટકટનું વર્ણન."
+    },
+    "increaseShortCut": {
+        "message": "પ્લેબેક ગતિ વધારો",
+        "description": "એક શોર્ટકટનું વર્ણન."
+    },
+    "decreaseShortCut": {
+        "message": "પ્લેબેક ગતિ ઘટાડો",
+        "description": "એક શોર્ટકટનું વર્ણન."
+    },
+    "source": {
+        "message": "સ્રોત",
+        "description": "સ્રોત."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "લેખકનું નામ."
+    },
+    "increaseAmountLable": {
+        "message": "વધારો / ઘટાડો રકમ",
+        "description": "પસંદગીઓમાં પ્રથમ લેબલ"
+    },
+    "saveButton": {
+        "message": "સાચવો",
+        "description": "સાચવો બટન"
+    }
+}

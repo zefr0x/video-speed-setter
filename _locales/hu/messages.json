@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Videósebesség-beállító",
+        "description": "A kiegészítő neve."
+    },
+    "extensionDescription": {
+        "message": "Takarítson meg időt, és szerezzen több információt kevesebb idő alatt bármikor és bármely webhelyen történő videók gyorsításával.",
+        "description": "A kiegészítő leírása."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Nyissa meg a felugró ablakot",
+        "description": "Egy gyorsbillentyű leírása."
+    },
+    "increaseShortCut": {
+        "message": "Növelje a lejátszási sebességet",
+        "description": "Egy gyorsbillentyű leírása."
+    },
+    "decreaseShortCut": {
+        "message": "Csökkentse a lejátszási sebességet",
+        "description": "Egy gyorsbillentyű leírása."
+    },
+    "source": {
+        "message": "Forrás",
+        "description": "Forrás."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Szerző neve."
+    },
+    "increaseAmountLable": {
+        "message": "Növelje/Csökkentse az összeget",
+        "description": "Az első címke a beállításokban"
+    },
+    "saveButton": {
+        "message": "Mentés",
+        "description": "Mentés gomb"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Réglage de la vitesse vidéo",
+        "description": "Nom de l'extension."
+    },
+    "extensionDescription": {
+        "message": "Gagnez du temps et obtenez plus d'informations en moins de temps en accélérant les vidéos sur n'importe quel site web et à n'importe quel moment.",
+        "description": "Description de l'extension."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Ouvrir la fenêtre contextuelle",
+        "description": "Description d'un raccourci."
+    },
+    "increaseShortCut": {
+        "message": "Augmenter la vitesse de lecture",
+        "description": "Description d'un raccourci."
+    },
+    "decreaseShortCut": {
+        "message": "Diminuer la vitesse de lecture",
+        "description": "Description d'un raccourci."
+    },
+    "source": {
+        "message": "Source",
+        "description": "Source."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Nom de l'auteur."
+    },
+    "increaseAmountLable": {
+        "message": "Quantité à augmenter/diminuer",
+        "description": "Première étiquette dans les préférences"
+    },
+    "saveButton": {
+        "message": "Enregistrer",
+        "description": "Bouton Enregistrer"
+    }
+}

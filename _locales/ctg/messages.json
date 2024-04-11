@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ভিডিও গতি সেটার",
+        "description": "এক্সটেনশনের নাম।"
+    },
+    "extensionDescription": {
+        "message": "যে কোন সময়ে এবং যে কোন ওয়েবসাইটে ভিডিওগুলির গতি বাড়ানোর মাধ্যমে সময় সংরক্ষণ করুন এবং কম সময়ে আরও তথ্য প্রাপ্ত করুন।",
+        "description": "এক্সটেনশনের বর্ণনা।"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "পপআপ খুলুন",
+        "description": "একটি শর্টকাটের বর্ণনা।"
+    },
+    "increaseShortCut": {
+        "message": "প্লেব্যাক গতি বাড়ানো",
+        "description": "একটি শর্টকাটের বর্ণনা।"
+    },
+    "decreaseShortCut": {
+        "message": "প্লেব্যাক গতি কমানো",
+        "description": "একটি শর্টকাটের বর্ণনা।"
+    },
+    "source": {
+        "message": "উৎস",
+        "description": "উৎস।"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "লেখকের নাম।"
+    },
+    "increaseAmountLable": {
+        "message": "বৃদ্ধি / হ্রাস পরিমাণ",
+        "description": "প্রথম পছন্দের লেবেল"
+    },
+    "saveButton": {
+        "message": "সংরক্ষণ করুন",
+        "description": "সংরক্ষণ বোতাম"
+    }
+}

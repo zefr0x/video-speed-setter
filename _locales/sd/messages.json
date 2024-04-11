@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "وڊيو سپيڊ سيٽر",
+        "description": "پلاگ ان جو نالو."
+    },
+    "extensionDescription": {
+        "message": "کنهن ويب سائيٽ ۾ ۽ کنهن وقت ۾ وڊيو جو رفتار بڻايو ڪريو ۽ کم وقت ۾ ڪم ٻڌائيو ٿو آهيو تہ اپڪي وقت بچايو ۽ وڏون معلومات حاصل ڪريو ۾ تيار ٿو.",
+        "description": "پلاگ ان جي ڄاڻي."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "پاپ اپ کليئر کريو",
+        "description": "ايڪسيڪيوٽ جو وضاحت."
+    },
+    "increaseShortCut": {
+        "message": "پلي بيڪ رفتار بڻايو",
+        "description": "ايڪسيڪيوٽ جو وضاحت."
+    },
+    "decreaseShortCut": {
+        "message": "پلي بيڪ رفتار گھٽايو",
+        "description": "ايڪسيڪيوٽ جو وضاحت."
+    },
+    "source": {
+        "message": "سرچ",
+        "description": "سرچ."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "مصنف جو نالو."
+    },
+    "increaseAmountLable": {
+        "message": "افزائيو/گھٽائيو مقدار",
+        "description": "ترجيحن جي پهريو ليبل"
+    },
+    "saveButton": {
+        "message": "سيو",
+        "description": "سيو بٽڻ."
+    }
+}

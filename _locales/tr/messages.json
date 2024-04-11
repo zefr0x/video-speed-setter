@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Video Hız Ayarlayıcı",
+        "description": "Uzantının adı."
+    },
+    "extensionDescription": {
+        "message": "Herhangi bir web sitesinde ve herhangi bir zamanda videoların hızını artırarak daha az zamanda daha fazla bilgi edinin.",
+        "description": "Uzantı açıklaması."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Açılır pencereyi aç",
+        "description": "Kısayol açıklaması."
+    },
+    "increaseShortCut": {
+        "message": "Oynatma hızını artır",
+        "description": "Kısayol açıklaması."
+    },
+    "decreaseShortCut": {
+        "message": "Oynatma hızını azalt",
+        "description": "Kısayol açıklaması."
+    },
+    "source": {
+        "message": "Kaynak",
+        "description": "Kaynak."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Yazar adı."
+    },
+    "increaseAmountLable": {
+        "message": "Artırma/Azaltma miktarı",
+        "description": "Tercihlerdeki ilk etiket"
+    },
+    "saveButton": {
+        "message": "Kaydet",
+        "description": "Kaydet düğmesi"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "व्हिडिओ स्पीड सेटर",
+        "description": "एक्सटेंशनचे नाव."
+    },
+    "extensionDescription": {
+        "message": "कोणत्याही वेबसाइटवर आणि कोणत्याही वेळी व्हिडिओची वेग वाढवून, कमी वेळेत अधिक माहिती मिळवा.",
+        "description": "एक्सटेंशनचे वर्णन."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "पॉप-अप उघडा",
+        "description": "एक शॉर्टकटची वर्णन."
+    },
+    "increaseShortCut": {
+        "message": "प्लेबॅक वेग वाढवा",
+        "description": "एक शॉर्टकटची वर्णन."
+    },
+    "decreaseShortCut": {
+        "message": "प्लेबॅक वेग कमी करा",
+        "description": "एक शॉर्टकटची वर्णन."
+    },
+    "source": {
+        "message": "स्रोत",
+        "description": "स्रोत."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "लेखकाचे नाव."
+    },
+    "increaseAmountLable": {
+        "message": "वाढ / सूट मात्रा",
+        "description": "प्राथमिक प्राधान्य."
+    },
+    "saveButton": {
+        "message": "साठवा",
+        "description": "साठवा बटण."
+    }
+}

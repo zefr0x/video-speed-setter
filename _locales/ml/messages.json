@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "വീഡിയോ വേഗ സെറ്റർ",
+        "description": "വിപുലീകരണത്തിന്റെ പേര്."
+    },
+    "extensionDescription": {
+        "message": "ഏതെങ്കിലും വെബ് സൈറ്റിൽ ഏതെങ്കിലും സമയത്തിൽ വീഡിയോകൾക്കുള്ള വേഗത ഉയർത്തി കുറവ് സമയത്തിൽ കൂടുതൽ വിവരങ്ങൾ ലഭിക്കുക.",
+        "description": "വിപുലീകരണത്തിന്റെ വിവരണം."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "പോപ്അപ്പ് തുറക്കുക",
+        "description": "ഒരു ചെറിയ ശോർട്ട് കടൽ."
+    },
+    "increaseShortCut": {
+        "message": "പ്ലേബാക്ക് വേഗം കൂട്ടുക",
+        "description": "ഒരു ചെറിയ ശോർട്ട് കടൽ."
+    },
+    "decreaseShortCut": {
+        "message": "പ്ലേബാക്ക് വേഗം കുറയ്ക്കുക",
+        "description": "ഒരു ചെറിയ ശോർട്ട് കടൽ."
+    },
+    "source": {
+        "message": "മൂലം",
+        "description": "മൂലം."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "രചയിതാവിന്റെ പേര്."
+    },
+    "increaseAmountLable": {
+        "message": "ഉയർത്തുക/കുറയ്ക്കുക അളവ്",
+        "description": "മൊത്ത ലേബലിൽ ആദ്യം"
+    },
+    "saveButton": {
+        "message": "സേവ്",
+        "description": "സേവ് ബട്ടൺ"
+    }
+}

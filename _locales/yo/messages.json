@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Awọn itọsọna Ipara Vidiyo",
+        "description": "Orukọ ti eti ilọsiwaju."
+    },
+    "extensionDescription": {
+        "message": "Fẹ lati sin eto rẹ ati gẹtọ diẹ sii nitori lati jẹ ki o le gẹgẹbi ara rẹ lori ọna ati ni ibi idibo rẹ lori awọn vidiyo ni gbogbo ọna ati ni ibi ibugbe.",
+        "description": "Ọpọlọpọ ti eti ilọsiwaju."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Mu igbimọ popup",
+        "description": "Ọwọọ akọkọ ti igbimọ."
+    },
+    "increaseShortCut": {
+        "message": "Pata eto iṣẹ jọwọ",
+        "description": "Ọwọọ akọkọ ti igbimọ."
+    },
+    "decreaseShortCut": {
+        "message": "Fi eto iṣẹ kuro lọwọ",
+        "description": "Ọwọọ akọkọ ti igbimọ."
+    },
+    "source": {
+        "message": "Ita",
+        "description": "Ita."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Orukọ omo-ọba."
+    },
+    "increaseAmountLable": {
+        "message": "Ko si iṣẹ/jọwọ agbẹ",
+        "description": "Aami ti o je ni iparọ."
+    },
+    "saveButton": {
+        "message": "Tẹ",
+        "description": "Bọtini tẹ"
+    }
+}

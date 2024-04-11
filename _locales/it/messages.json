@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Impostazione della velocità del video",
+        "description": "Nome dell'estensione"
+    },
+    "extensionDescription": {
+        "message": "Risparmia tempo e ottieni più informazioni in meno tempo accelerando i video su qualsiasi sito web e in qualsiasi momento.",
+        "description": "Descrizione dell'estensione"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Apri popup",
+        "description": "Descrizione della scorciatoia"
+    },
+    "increaseShortCut": {
+        "message": "Aumenta la velocità di riproduzione",
+        "description": "Descrizione della scorciatoia"
+    },
+    "decreaseShortCut": {
+        "message": "Diminuisci la velocità di riproduzione",
+        "description": "Descrizione della scorciatoia"
+    },
+    "source": {
+        "message": "Fonte",
+        "description": "Fonte"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Nome dell'autore"
+    },
+    "increaseAmountLable": {
+        "message": "Quantità di aumento/diminuzione",
+        "description": "Prima etichetta nelle preferenze"
+    },
+    "saveButton": {
+        "message": "Salva",
+        "description": "Pulsante Salva"
+    }
+}

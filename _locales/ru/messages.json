@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Управление скоростью видео",
+        "description": "Название расширения."
+    },
+    "extensionDescription": {
+        "message": "Экономьте время и получайте больше информации за меньшее время, ускоряя видео в любое время и на любом сайте.",
+        "description": "Описание расширения." 
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Открыть всплывающее окно",
+        "description": "Описание сочетания клавиш."
+    },
+    "increaseShortCut": {
+        "message": "Увеличить скорость воспроизведения",
+        "description": "Описание сочетания клавиш."
+    },
+    "decreaseShortCut": {
+        "message": "Уменьшить скорость воспроизведения",
+        "description": "Описание сочетания клавиш."
+    },
+    "source": {
+        "message": "Источник", 
+        "description": "Источник."
+    },
+    "author": {
+        "message": "zefr0x", 
+        "description": "Имя автора."
+    },
+    "increaseAmountLable": {
+        "message": "Величина увеличения/уменьшения",
+        "description": "Первый ярлык в настройках"
+    },
+    "saveButton": {
+        "message": "Сохранить",
+        "description": "Кнопка сохранения"
+    }
+}

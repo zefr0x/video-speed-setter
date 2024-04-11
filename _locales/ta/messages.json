@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "கோப்பு வேக அமைப்பாளர்",
+        "description": "நீர் பெயர்."
+    },
+    "extensionDescription": {
+        "message": "எந்த வலைத்தளத்திலும் மற்றும் எந்த நேரத்திலும் வீடியோக்களின் வேகத்தை உயர்த்தி, குறைந்த நேரத்தில் அதிக தகவல்களைப் பெறுங்கள்.",
+        "description": "நீர் விளக்கம்."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "பட்டியிலை திற",
+        "description": "ஒரு குறுக்குச் சுருக்கத்தின் விளக்கம்."
+    },
+    "increaseShortCut": {
+        "message": "பிளேபேக் வேகத்தை அதிகரிக்கவும்",
+        "description": "ஒரு குறுக்குச் சுருக்கத்தின் விளக்கம்."
+    },
+    "decreaseShortCut": {
+        "message": "பிளேபேக் வேகத்தை குறைக்கவும்",
+        "description": "ஒரு குறுக்குச் சுருக்கத்தின் விளக்கம்."
+    },
+    "source": {
+        "message": "மூலம்",
+        "description": "மூலம்."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "ஆசிரியர் பெயர்."
+    },
+    "increaseAmountLable": {
+        "message": "அதிகரிப்பு/குறைப்பு அளவு",
+        "description": "முதல் லேபிள் விருப்பங்களில்"
+    },
+    "saveButton": {
+        "message": "சேமி",
+        "description": "சேமி பொத்தானை"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ವೀಡಿಯೊ ಗತಿ ಹೊಂದಿಸುವವನು",
+        "description": "ವಿಸ್ತಾರವನ್ನು ಹೆಸರಿಟ್ಟು ಮಾಡುವವನ ಹೆಸರು."
+    },
+    "extensionDescription": {
+        "message": "ಯಾವುದೇ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಮತ್ತು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ವೀಡಿಯೊಗಳ ಗತಿಯನ್ನು ಹೆಚ್ಚಿಸಿ, ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚಿದ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಿರಿ.",
+        "description": "ವಿಸ್ತಾರದ ವಿವರಣೆ."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "ಪಾಪ್-ಅಪ್ ತೆರೆಯಿರಿ",
+        "description": "ಒಂದು ಶಾರ್ಟ್‌ಕಟ್ ವಿವರಣೆ."
+    },
+    "increaseShortCut": {
+        "message": "ಪ್ಲೇಬ್ಯಾಕ್ ಗತಿಯನ್ನು ಹೆಚ್ಚಿಸಿ",
+        "description": "ಒಂದು ಶಾರ್ಟ್‌ಕಟ್ ವಿವರಣೆ."
+    },
+    "decreaseShortCut": {
+        "message": "ಪ್ಲೇಬ್ಯಾಕ್ ಗತಿಯನ್ನು ಕಡಿಮೆ ಮಾಡಿ",
+        "description": "ಒಂದು ಶಾರ್ಟ್‌ಕಟ್ ವಿವರಣೆ."
+    },
+    "source": {
+        "message": "ಮೂಲ",
+        "description": "ಮೂಲ."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "ಲೇಖಕನ ಹೆಸರು."
+    },
+    "increaseAmountLable": {
+        "message": "ಹೆಚ್ಚುವ/ಕಡಿಮೆಮಾಡುವ ಪ್ರಮಾಣ",
+        "description": "ಅಭಿರುಚಿಗಳ ಮೊದಲನೆಯ ಲೇಬಲ್"
+    },
+    "saveButton": {
+        "message": "ಉಳಿಸು",
+        "description": "ಉಳಿಸು ಬಟನ್"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Trình Đặt Tốc Độ Video",
+        "description": "Tên của tiện ích mở rộng."
+    },
+    "extensionDescription": {
+        "message": "Tiết kiệm thời gian và nhận được nhiều thông tin hơn trong thời gian ít hơn bằng cách tăng tốc độ video trên bất kỳ trang web nào và vào bất kỳ thời điểm nào.",
+        "description": "Mô tả của tiện ích mở rộng."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Mở cửa sổ bật lên",
+        "description": "Một phím tắt mô tả."
+    },
+    "increaseShortCut": {
+        "message": "Tăng tốc độ phát lại",
+        "description": "Một phím tắt mô tả."
+    },
+    "decreaseShortCut": {
+        "message": "Giảm tốc độ phát lại",
+        "description": "Một phím tắt mô tả."
+    },
+    "source": {
+        "message": "Nguồn",
+        "description": "Nguồn."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Tên tác giả."
+    },
+    "increaseAmountLable": {
+        "message": "Số lượng tăng/giảm",
+        "description": "Nhãn đầu tiên trong các tùy chọn"
+    },
+    "saveButton": {
+        "message": "Lưu",
+        "description": "Nút Lưu"
+    }
+}

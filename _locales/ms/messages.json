@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Pengatur Kelajuan Video",
+        "description": "Nama sambungan"
+    },
+    "extensionDescription": {
+        "message": "Jimat masa anda dan dapatkan lebih banyak maklumat dalam masa yang lebih singkat dengan mempercepatkan video pada mana-mana laman web dan pada bila-bila masa.",
+        "description": "Penerangan sambungan"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Buka pop-up",
+        "description": "Penerangan pintasan"
+    },
+    "increaseShortCut": {
+        "message": "Tingkatkan kelajuan mainan",
+        "description": "Penerangan pintasan"
+    },
+    "decreaseShortCut": {
+        "message": "Kurangkan kelajuan mainan",
+        "description": "Penerangan pintasan"
+    },
+    "source": {
+        "message": "Sumber",
+        "description": "Sumber"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Nama pengarang"
+    },
+    "increaseAmountLable": {
+        "message": "Kuantiti Peningkatan/Penurunan",
+        "description": "Label pertama dalam keutamaan"
+    },
+    "saveButton": {
+        "message": "Simpan",
+        "description": "Butang Simpan"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Video-Geschwindigkeitseinsteller",
+        "description": "Name der Erweiterung."
+    },
+    "extensionDescription": {
+        "message": "Sparen Sie Zeit und erhalten Sie mehr Informationen in weniger Zeit, indem Sie die Wiedergabegeschwindigkeit von Videos auf jeder Website erhöhen.",
+        "description": "Beschreibung der Erweiterung."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Popup öffnen",
+        "description": "Eine Tastenkombination."
+    },
+    "increaseShortCut": {
+        "message": "Wiedergabegeschwindigkeit erhöhen",
+        "description": "Eine Tastenkombination."
+    },
+    "decreaseShortCut": {
+        "message": "Wiedergabegeschwindigkeit verringern",
+        "description": "Eine Tastenkombination."
+    },
+    "source": {
+        "message": "Quelle",
+        "description": "Quelle."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Name des Autors."
+    },
+    "increaseAmountLable": {
+        "message": "Erhöhung/Verringerung der Geschwindigkeit",
+        "description": "Erstes Etikett in den Einstellungen"
+    },
+    "saveButton": {
+        "message": "Speichern",
+        "description": "Speichern-Schaltfläche"
+    }
+}

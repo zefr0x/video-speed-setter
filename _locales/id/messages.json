@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Pengatur Kecepatan Video",
+        "description": "Nama ekstensi." 
+    },
+    "extensionDescription": {
+        "message": "Hemat waktu Anda dan dapatkan lebih banyak informasi dalam waktu yang lebih singkat dengan mempercepat video kapan saja dan di situs web mana pun.",
+        "description": "Deskripsi ekstensi."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Buka jendela pop-up", 
+        "description": "Deskripsi pintasan."
+    }, 
+    "increaseShortCut": {
+        "message": "Tingkatkan kecepatan pemutaran",
+        "description": "Deskripsi pintasan."
+    },
+    "decreaseShortCut": {
+        "message": "Kurangi kecepatan pemutaran", 
+        "description": "Deskripsi pintasan."
+    }, 
+    "source": {
+        "message": "Sumber", 
+        "description": "Sumber."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Nama pembuat." 
+    },
+    "increaseAmountLable": {
+        "message": "Jumlah peningkatan/penurunan", 
+        "description": "Label pertama di preferensi"
+    },
+    "saveButton": {
+        "message": "Simpan", 
+        "description": "Tombol simpan"
+    }
+}

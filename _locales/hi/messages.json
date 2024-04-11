@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "वीडियो गति सेटर",
+        "description": "एक्सटेंशन का नाम।"
+    },
+    "extensionDescription": {
+        "message": "किसी भी समय और किसी भी वेबसाइट पर वीडियो की गति बढ़ाकर अपना समय बचाएं और कम समय में अधिक जानकारी प्राप्त करें।",
+        "description": "एक्सटेंशन का विवरण।"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "पॉपअप खोलें",
+        "description": "एक शॉर्टकट विवरण।"
+    },
+    "increaseShortCut": {
+        "message": "प्लेबैक गति बढ़ाएँ",
+        "description": "एक शॉर्टकट विवरण।"
+    },
+    "decreaseShortCut": {
+        "message": "प्लेबैक गति घटाएँ",
+        "description": "एक शॉर्टकट विवरण।"
+    },
+    "source": {
+        "message": "स्रोत",
+        "description": "स्रोत।"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "लेखक का नाम।"
+    },
+    "increaseAmountLable": {
+        "message": "बढ़ाएँ/घटाएँ राशि",
+        "description": "वरीयताओं में पहला लेबल" 
+    },
+    "saveButton": {
+        "message": "सहेजें",
+        "description": "सहेजें बटन"
+    }
+}

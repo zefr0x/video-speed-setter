@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ဗီဒီယိုစျေးသုံးသူ",
+        "description": "အပြန်အလှန်အစားအားစိစစ်နှင့်အမည်"
+    },
+    "extensionDescription": {
+        "message": "တစ်ဦးနှင့်တစ်ဦးအချက်အလက်မှ ဗီဒီယိုများကိုအကျယ်ပြန်ပြောင်းလဲနိုင်စေရန်နှင့်လိုအပ်လျောညွှန်းနှင့်လိုအပ်သည်။",
+        "description": "အပြန်အလှန်အစားအားစိစစ်နှင့်အကြောင်းအရာအားဖော်ပြချက်"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "ပေါ်ပြမှုနှင့်ကိုးရပ်ဖွင့်ပါ",
+        "description": "တစ်စိတ်အကြောင်းအရာ"
+    },
+    "increaseShortCut": {
+        "message": "ထပ်မံပြန်သွားစေရန်",
+        "description": "တစ်စိတ်အကြောင်းအရာ"
+    },
+    "decreaseShortCut": {
+        "message": "အနှိုင်းယူစေရန်",
+        "description": "တစ်စိတ်အကြောင်းအရာ"
+    },
+    "source": {
+        "message": "ရင်းနှီး",
+        "description": "ရင်းနှီး"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "စာရင်းသွင်းသူအမည်"
+    },
+    "increaseAmountLable": {
+        "message": "အမြဲတိုး/အနိုင်းရန်ပမာဏ",
+        "description": "ရွှေ့နယ်မှစာပြမှာအရာ"
+    },
+    "saveButton": {
+        "message": "သိမ်းပါ",
+        "description": "သိမ်းဆည်းပါ"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "视频速度设置",
+        "description": "扩展程序名称。" 
+    },
+    "extensionDescription": {
+        "message": "通过在任何时间和任何网站上加速视频来节省您的时间并获取更多信息。",
+        "description": "扩展程序的描述。"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "打开弹出窗口",
+        "description": "快捷方式描述。"
+    },
+    "increaseShortCut": {
+        "message": "提高播放速度",
+        "description": "快捷方式描述。" 
+    },
+    "decreaseShortCut": {
+        "message": "降低播放速度",
+        "description": "快捷方式描述。"
+    },
+    "source": {
+        "message": "来源",
+        "description": "来源。"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "作者姓名。"
+    },
+    "increaseAmountLable": {
+        "message": "增加/减少量", 
+        "description": "首选项中的第一个标签"
+    },
+    "saveButton": {
+        "message": "保存",
+        "description": "保存按钮"
+    }
+}

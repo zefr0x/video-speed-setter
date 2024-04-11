@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ビデオスピードセッター",
+        "description": "拡張機能の名前。"
+    },
+    "extensionDescription": {
+        "message": "どんなウェブサイトでも、どんな時間でもビデオの再生速度を上げて、より少ない時間でより多くの情報を手に入れましょう。",
+        "description": "拡張機能の説明。"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "ポップアップを開く",
+        "description": "ショートカットの説明。"
+    },
+    "increaseShortCut": {
+        "message": "再生速度を上げる",
+        "description": "ショートカットの説明。"
+    },
+    "decreaseShortCut": {
+        "message": "再生速度を下げる",
+        "description": "ショートカットの説明。"
+    },
+    "source": {
+        "message": "ソース",
+        "description": "ソース。"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "著者の名前。"
+    },
+    "increaseAmountLable": {
+        "message": "増加/減少量",
+        "description": "設定内の最初のラベル"
+    },
+    "saveButton": {
+        "message": "保存",
+        "description": "保存ボタン"
+    }
+}

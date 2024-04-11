@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Nastavitel rychlosti videa",
+        "description": "Název rozšíření."
+    },
+    "extensionDescription": {
+        "message": "Ušetřete čas a získejte více informací za kratší dobu zrychlením videí kdykoli a na jakékoli webové stránce.",
+        "description": "Popis rozšíření."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Otevřít vyskakovací okno",
+        "description": "Popis klávesové zkratky."
+    },
+    "increaseShortCut": {
+        "message": "Zvýšit rychlost přehrávání",
+        "description": "Popis klávesové zkratky."
+    },
+    "decreaseShortCut": {
+        "message": "Snížit rychlost přehrávání",
+        "description": "Popis klávesové zkratky."
+    },
+    "source": {
+        "message": "Zdroj",
+        "description": "Zdroj."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Jméno autora."
+    },
+    "increaseAmountLable": {
+        "message": "Zvýšit/Snížit množství",
+        "description": "První popisek v preferencích"
+    },
+    "saveButton": {
+        "message": "Uložit",
+        "description": "Tlačítko Uložit"
+    }
+}

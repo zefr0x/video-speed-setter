@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ਵੀਡੀਓ ਸਪੀਡ ਸੈੱਟਰ",
+        "description": "ਐਕਸਟੈਂਸ਼ਨ ਦਾ ਨਾਮ।"
+    },
+    "extensionDescription": {
+        "message": "ਕਿਸੇ ਵੀ ਵੈਬਸਾਈਟ 'ਤੇ ਅਤੇ ਕਿਸੇ ਵੀ ਸਮੇ ਉੱਤੇ ਵੀਡੀਓ ਦੀ ਗਤੀ ਵਧਾਉਣ ਨਾਲ, ਘੱਟ ਸਮੇ ਵਿੱਚ ਹੋਰ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰੋ।",
+        "description": "ਐਕਸਟੈਂਸ਼ਨ ਦਾ ਵੇਰਵਾ।"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "ਪੋਪਅਪ ਖੋਲ੍ਹੋ",
+        "description": "ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਦਾ ਵੇਰਵਾ।"
+    },
+    "increaseShortCut": {
+        "message": "ਪਲੇਬੈਕ ਗਤੀ ਵਧਾਓ",
+        "description": "ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਦਾ ਵੇਰਵਾ।"
+    },
+    "decreaseShortCut": {
+        "message": "ਪਲੇਬੈਕ ਗਤੀ ਘਟਾਓ",
+        "description": "ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਦਾ ਵੇਰਵਾ।"
+    },
+    "source": {
+        "message": "ਸਰੋਤ",
+        "description": "ਸਰੋਤ।"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "ਲੇਖਕ ਦਾ ਨਾਮ।"
+    },
+    "increaseAmountLable": {
+        "message": "ਵਾਧਾ/ਘਟਾਓ ਮਾਤਰਾ",
+        "description": "ਪਸੰਦਾਂ ਵਿੱਚ ਪਹਿਲਾਂ ਲੇਬਲ"
+    },
+    "saveButton": {
+        "message": "ਸੰਭਾਲੋ",
+        "description": "ਸੰਭਾਲੋ ਬਟਨ"
+    }
+}

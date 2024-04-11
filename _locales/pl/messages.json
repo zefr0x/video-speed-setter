@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Ustawiacz prędkości wideo",
+        "description": "Nazwa rozszerzenia"
+    },
+    "extensionDescription": {
+        "message": "Oszczędź czas i uzyskaj więcej informacji w krótszym czasie, przyspieszając odtwarzanie wideo na dowolnej stronie i w dowolnym czasie.",
+        "description": "Opis rozszerzenia"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Otwórz okno",
+        "description": "Opis skrótu"
+    },
+    "increaseShortCut": {
+        "message": "Zwiększ prędkość odtwarzania",
+        "description": "Opis skrótu"
+    },
+    "decreaseShortCut": {
+        "message": "Zmniejsz prędkość odtwarzania",
+        "description": "Opis skrótu"
+    },
+    "source": {
+        "message": "Źródło",
+        "description": "Źródło"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Nazwa autora"
+    },
+    "increaseAmountLable": {
+        "message": "Zwiększyć/Zmniejszyć ilość",
+        "description": "Pierwsza etykieta w preferencjach"
+    },
+    "saveButton": {
+        "message": "Zapisz",
+        "description": "Przycisk zapisywania"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Vidiyo Sa'annin Kayan Aiki",
+        "description": "Sunan ƙwararru"
+    },
+    "extensionDescription": {
+        "message": "Fadada waɗannan lokaci kuma samu bayanai da yawa a lokaci guda da dukkanin lokaci da suka sa video a cikin shafin waje kowanne lokaci.",
+        "description": "Bayani na ƙwararri"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Buɗe sashin yankin",
+        "description": "Bayani na ta'aliki"
+    },
+    "increaseShortCut": {
+        "message": "Sanya ɗaukar sa'annin",
+        "description": "Bayani na ta'aliki"
+    },
+    "decreaseShortCut": {
+        "message": "Kamata sa'annin aiki",
+        "description": "Bayani na ta'aliki"
+    },
+    "source": {
+        "message": "Manhajar",
+        "description": "Manhajar"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Sunan wasan"
+    },
+    "increaseAmountLable": {
+        "message": "Dagawa/Karfin kwanan sa'annin",
+        "description": "Takardar ƙasuwanci a cikin bangarori"
+    },
+    "saveButton": {
+        "message": "Ajiye",
+        "description": "Kati Ajiye"
+    }
+}

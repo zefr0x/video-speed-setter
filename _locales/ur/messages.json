@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "ویڈیو سپیڈ سیٹر",
+        "description": "ایکسٹینشن کا نام۔"
+    },
+    "extensionDescription": {
+        "message": "کسی بھی وقت اور کسی بھی ویب سائٹ پر ویڈیوز کی رفتار بڑھا کر کم وقت میں زیادہ معلومات حاصل کریں۔",
+        "description": "ایکسٹینشن کی تفصیل۔"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "پاپ اپ کھولیں",
+        "description": "ایک شارٹ کٹ کی تفصیل۔"
+    },
+    "increaseShortCut": {
+        "message": "پلے بیک کی رفتار بڑھائیں",
+        "description": "ایک شارٹ کٹ کی تفصیل۔"
+    },
+    "decreaseShortCut": {
+        "message": "پلے بیک کی رفتار کم کریں",
+        "description": "ایک شارٹ کٹ کی تفصیل۔"
+    },
+    "source": {
+        "message": "ماخذ",
+        "description": "ماخذ۔"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "مصنف کا نام۔"
+    },
+    "increaseAmountLable": {
+        "message": "بڑھانا/کم کرنا مقدار",
+        "description": "ترجیحات میں پہلا لیبل۔"
+    },
+    "saveButton": {
+        "message": "محفوظ کریں",
+        "description": "محفوظ کریں بٹن۔"
+    }
+}

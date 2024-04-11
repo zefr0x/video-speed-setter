@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "Подешавач брзине видеа",
+        "description": "Име проширења."
+    },
+    "extensionDescription": {
+        "message": "Уштедите време и добијте више информација за краће време тако што ћете убрзати видео записе у било ком тренутку и на било којем веб месту.",
+        "description": "Опис проширења."
+    },
+    "executeBrowserActionShortCut": {
+        "message": "Отвори искачући прозор",
+        "description": "Опис пречице."
+    },
+    "increaseShortCut": {
+        "message": "Повећајте брзину пуштања",
+        "description": "Опис пречице."
+    },
+    "decreaseShortCut": {
+        "message": "Смањите брзину пуштања",
+        "description": "Опис пречице."
+    },
+    "source": {
+        "message": "Извор",
+        "description": "Извор."
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "Име аутора."
+    },
+    "increaseAmountLable": {
+        "message": "Повећајте/Смањите количину",
+        "description": "Прва ознака у подешавањима"
+    },
+    "saveButton": {
+        "message": "Сачувај",
+        "description": "Дугме за чување"
+    }
+}

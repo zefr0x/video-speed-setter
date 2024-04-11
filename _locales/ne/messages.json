@@ -1,0 +1,38 @@
+{
+    "extensionName": {
+        "message": "भिडियो गति सेटर",
+        "description": "एक्सटेंशनको नाम"
+    },
+    "extensionDescription": {
+        "message": "कुनै पनि वेबसाइटमा र कुनै समयमा भिडियोहरूको गति बढाउनु र कम समयमा थप जानकारी प्राप्त गर्नुहोस्।",
+        "description": "एक्सटेंशनको विवरण"
+    },
+    "executeBrowserActionShortCut": {
+        "message": "पपअप खोल्नुहोस्",
+        "description": "शॉर्टकटको विवरण"
+    },
+    "increaseShortCut": {
+        "message": "प्लेब्याक गति बढाउनुहोस्",
+        "description": "शॉर्टकटको विवरण"
+    },
+    "decreaseShortCut": {
+        "message": "प्लेब्याक गति कम्म गर्नुहोस्",
+        "description": "शॉर्टकटको विवरण"
+    },
+    "source": {
+        "message": "स्रोत",
+        "description": "स्रोत"
+    },
+    "author": {
+        "message": "zefr0x",
+        "description": "लेखकको नाम"
+    },
+    "increaseAmountLable": {
+        "message": "वृद्धि/कमी मात्रा",
+        "description": "प्राथमिकतामा पहिलो लेबल"
+    },
+    "saveButton": {
+        "message": "सुरक्षित गर्नुहोस्",
+        "description": "सुरक्षित गर्नुहोस् बटन"
+    }
+}
